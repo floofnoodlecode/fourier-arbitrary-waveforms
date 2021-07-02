@@ -9,9 +9,11 @@
 
 # Youtube video
 
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://youtu.be/nwAKu01ESlY" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/nwAKu01ESlY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
 
 # Description
 `viz.ipynb` contains all the code necessary to generate the animations shown in the video.
