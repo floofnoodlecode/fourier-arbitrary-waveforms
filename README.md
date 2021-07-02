@@ -9,17 +9,8 @@
 
 # Youtube video
 
-<div class="panel panel-info">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nwAKu01ESlY" frameborder="0" allowfullscreen></iframe>
 
-**Output**
-{: .panel-heading}
-
-<div class="panel-body">
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-</div>
-</div>
 
 # Description
 `viz.ipynb` contains all the code necessary to generate the animations shown in the video.
