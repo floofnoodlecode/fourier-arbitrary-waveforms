@@ -1,3 +1,5 @@
 merge.py
 .ipynb_checkpoints/
 *.pyc
+.idea/
+videos/
